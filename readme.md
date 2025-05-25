@@ -27,10 +27,10 @@
 ## 📸 Demo
 
 ### Inputs
-<img src="image1.png" alt="Demo Output" width="500"/>
+<img src="image1.png" alt="Demo Output" width="400"/>
 
 ### Generated Table
-<img src="image2.png" alt="Demo Output" width="500"/>
+<img src="image2.png" alt="Demo Output" width="400"/>
 
 ## 📦 Installation
 
@@ -60,25 +60,25 @@
     ┣ 📄 README.md        → Project documentation
 
 
-## ✏️ Customization Tips
+## ✏️ Customization Tips <br>
 
-> Modify vector<string> days to include Saturday/Sunday
-> Add teacher availability logic if needed
->Expand Teacher struct to include class preference, room number, etc.
+> Modify vector<string> days to include Saturday/Sunday <br>
+> Add teacher availability logic if needed <br>
+>Expand Teacher struct to include class preference, room number, etc. <br>
 
-## 💡 Tech Stack
+## 💡 Tech Stack <br>
 
-> 💻 C++17
->🧠 STL: vector, string, tuple, algorithm, sstream
+> 💻 C++17<br>
+>🧠 STL: vector, string, tuple, algorithm, sstream<br>
 
 ## 🤝 Contributing
 
-### Feel free to fork and submit pull requests! Let’s make the best open-source timetable scheduler togethe
+### Feel free to fork and submit pull requests!<br> Let’s make the best open-source timetable scheduler togethe
 
 ## 📜 License
 
->This project is licensed under the MIT License.
+  This project is licensed under the MIT License.
 
 ### 🌟 Show your support
 
->⭐ Star this repo if it helped you or your institution!
+  ⭐ Star this repo if it helped you or your institution!
