@@ -26,10 +26,10 @@
 
 ## 📸 Demo
 
-### Inputs
+### 🖼️ Inputs
 <img src="image1.png" alt="Demo Output" width="400"/>
 
-### Generated Table
+### 🖼️ Generated Table
 <img src="image2.png" alt="Demo Output" width="400"/>
 
 ## 📦 Installation
@@ -64,7 +64,7 @@
 
 > • Modify vector<string> days to include Saturday/Sunday <br>
 > • Add teacher availability logic if needed <br>
-> •Expand Teacher struct to include class preference, room number, etc. <br>
+> • Expand Teacher struct to include class preference, room number, etc. <br>
 
 ## 💡 Tech Stack <br>
 
