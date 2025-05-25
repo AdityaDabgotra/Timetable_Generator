@@ -62,18 +62,19 @@
 
 ## ✏️ Customization Tips <br>
 
-> Modify vector<string> days to include Saturday/Sunday <br>
-> Add teacher availability logic if needed <br>
->Expand Teacher struct to include class preference, room number, etc. <br>
+> • Modify vector<string> days to include Saturday/Sunday <br>
+> • Add teacher availability logic if needed <br>
+> •Expand Teacher struct to include class preference, room number, etc. <br>
 
 ## 💡 Tech Stack <br>
 
-> 💻 C++17<br>
->🧠 STL: vector, string, tuple, algorithm, sstream<br>
+> • 💻 C++17<br>
+> • 🧠 STL: vector, string, tuple, algorithm, sstream<br>
 
 ## 🤝 Contributing
 
-### Feel free to fork and submit pull requests!<br> Let’s make the best open-source timetable scheduler togethe
+  • Feel free to fork and submit pull requests!<br>
+  • Let’s make the best open-source timetable scheduler togethe
 
 ## 📜 License
 
